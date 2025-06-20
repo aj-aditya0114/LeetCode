@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
