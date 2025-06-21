@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
