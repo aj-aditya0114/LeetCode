@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aj-aditya0114/LeetCode/tree/master/0041-first-missing-positive) |
 | [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aj-aditya0114/LeetCode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
