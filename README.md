@@ -28,6 +28,7 @@
 | [0162-find-peak-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
@@ -82,4 +83,8 @@
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
