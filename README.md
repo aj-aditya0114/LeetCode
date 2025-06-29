@@ -32,6 +32,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0494-target-sum) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -90,4 +91,9 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
