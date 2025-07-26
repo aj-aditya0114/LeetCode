@@ -116,6 +116,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aj-aditya0114/LeetCode/tree/master/0518-coin-change-ii) |
+| [1170-shortest-common-supersequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -129,6 +130,7 @@
 ## String
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
