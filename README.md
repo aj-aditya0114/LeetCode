@@ -71,6 +71,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0908-middle-of-the-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -105,6 +106,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
