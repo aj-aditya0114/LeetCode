@@ -142,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aj-aditya0114/LeetCode/tree/master/0020-valid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -159,6 +160,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aj-aditya0114/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
