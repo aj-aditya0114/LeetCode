@@ -45,6 +45,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aj-aditya0114/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/aj-aditya0114/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/aj-aditya0114/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/aj-aditya0114/LeetCode/tree/master/0322-coin-change) |
@@ -124,6 +125,7 @@
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aj-aditya0114/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/aj-aditya0114/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aj-aditya0114/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0494-target-sum) |
