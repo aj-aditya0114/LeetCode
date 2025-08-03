@@ -71,6 +71,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aj-aditya0114/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aj-aditya0114/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
