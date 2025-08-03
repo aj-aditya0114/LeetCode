@@ -156,6 +156,7 @@
 | [1170-shortest-common-supersequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3636-check-balanced-string](https://github.com/aj-aditya0114/LeetCode/tree/master/3636-check-balanced-string) |
 ## Math
 |  |
 | ------- |
