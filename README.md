@@ -6,6 +6,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -56,6 +58,7 @@
 | [0011-container-with-most-water](https://github.com/aj-aditya0114/LeetCode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/aj-aditya0114/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aj-aditya0114/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0162-find-peak-element) |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aj-aditya0114/LeetCode/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -192,4 +196,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
