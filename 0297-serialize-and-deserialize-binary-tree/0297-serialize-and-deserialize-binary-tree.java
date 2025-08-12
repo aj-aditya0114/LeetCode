@@ -31,7 +31,7 @@ public class Codec {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        if(data.equals(" "))return null;
+        if(data == " ")return null;
         Queue<TreeNode> q = new LinkedList<>();
         String[]value = data.split(" ");
         TreeNode root = new TreeNode(Integer.parseInt(value[0]));
