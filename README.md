@@ -86,6 +86,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
