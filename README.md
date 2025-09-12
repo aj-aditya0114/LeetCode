@@ -88,6 +88,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aj-aditya0114/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2102-find-the-middle-index-in-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aj-aditya0114/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aj-aditya0114/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2102-find-the-middle-index-in-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
 |  |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aj-aditya0114/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
