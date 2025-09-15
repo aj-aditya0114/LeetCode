@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aj-aditya0114/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aj-aditya0114/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aj-aditya0114/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -157,6 +159,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
