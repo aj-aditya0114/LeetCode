@@ -207,6 +207,7 @@
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aj-aditya0114/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/aj-aditya0114/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3636-check-balanced-string](https://github.com/aj-aditya0114/LeetCode/tree/master/3636-check-balanced-string) |
 ## Math
 |  |
