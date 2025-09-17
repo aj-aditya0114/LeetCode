@@ -142,6 +142,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0782-jewels-and-stones](https://github.com/aj-aditya0114/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/aj-aditya0114/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aj-aditya0114/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aj-aditya0114/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -203,6 +204,7 @@
 | [0125-valid-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0782-jewels-and-stones](https://github.com/aj-aditya0114/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1170-shortest-common-supersequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
