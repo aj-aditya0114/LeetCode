@@ -30,6 +30,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aj-aditya0114/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aj-aditya0114/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2102-find-the-middle-index-in-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -197,6 +199,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aj-aditya0114/LeetCode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
 ## String
 |  |
 | ------- |
@@ -249,4 +252,12 @@
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aj-aditya0114/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aj-aditya0114/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
+## Matrix
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
