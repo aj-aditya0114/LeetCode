@@ -78,6 +78,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aj-aditya0114/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aj-aditya0114/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aj-aditya0114/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/aj-aditya0114/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -145,6 +146,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0015-3sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -247,6 +250,7 @@
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0169-majority-element) |
 ## Design
 |  |
 | ------- |
@@ -279,4 +283,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
