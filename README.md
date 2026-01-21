@@ -42,6 +42,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/aj-aditya0114/LeetCode/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -246,6 +247,7 @@
 | [0002-add-two-numbers](https://github.com/aj-aditya0114/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/aj-aditya0114/LeetCode/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/aj-aditya0114/LeetCode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
