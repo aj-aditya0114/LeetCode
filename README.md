@@ -34,6 +34,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aj-aditya0114/LeetCode/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aj-aditya0114/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/aj-aditya0114/LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
