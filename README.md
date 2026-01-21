@@ -43,6 +43,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0704-binary-search](https://github.com/aj-aditya0114/LeetCode/tree/master/0704-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aj-aditya0114/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -93,6 +94,7 @@
 | [0494-target-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aj-aditya0114/LeetCode/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/aj-aditya0114/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/aj-aditya0114/LeetCode/tree/master/0940-fruit-into-baskets) |
