@@ -45,6 +45,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aj-aditya0114/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aj-aditya0114/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0169-majority-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aj-aditya0114/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
 | ------- |
