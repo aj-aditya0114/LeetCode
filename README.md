@@ -76,6 +76,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/aj-aditya0114/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/aj-aditya0114/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aj-aditya0114/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aj-aditya0114/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aj-aditya0114/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aj-aditya0114/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aj-aditya0114/LeetCode/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/aj-aditya0114/LeetCode/tree/master/0441-arranging-coins) |
 ## Recursion
@@ -296,6 +298,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aj-aditya0114/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aj-aditya0114/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Heap (Priority Queue)
