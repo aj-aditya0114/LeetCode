@@ -107,6 +107,7 @@
 | [0940-fruit-into-baskets](https://github.com/aj-aditya0114/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-last-stone-weight) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aj-aditya0114/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -309,6 +310,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
