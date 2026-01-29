@@ -105,6 +105,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
 | [0940-fruit-into-baskets](https://github.com/aj-aditya0114/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-last-stone-weight) |
@@ -198,6 +199,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aj-aditya0114/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
@@ -258,6 +260,7 @@
 | [0048-rotate-image](https://github.com/aj-aditya0114/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aj-aditya0114/LeetCode/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/aj-aditya0114/LeetCode/tree/master/0441-arranging-coins) |
+| [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +282,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/aj-aditya0114/LeetCode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -310,6 +314,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -337,4 +342,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
