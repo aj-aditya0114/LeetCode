@@ -46,6 +46,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/aj-aditya0114/LeetCode/tree/master/0704-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -100,6 +101,7 @@
 | [0518-coin-change-ii](https://github.com/aj-aditya0114/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/aj-aditya0114/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -134,6 +136,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -198,6 +201,7 @@
 | [0242-valid-anagram](https://github.com/aj-aditya0114/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aj-aditya0114/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/aj-aditya0114/LeetCode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -295,6 +299,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/aj-aditya0114/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aj-aditya0114/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -313,6 +318,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-last-stone-weight) |
