@@ -49,6 +49,7 @@
 | [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/aj-aditya0114/LeetCode/tree/master/0704-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aj-aditya0114/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aj-aditya0114/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
@@ -108,6 +109,7 @@
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
 | [0940-fruit-into-baskets](https://github.com/aj-aditya0114/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aj-aditya0114/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/aj-aditya0114/LeetCode/tree/master/1046-last-stone-weight) |
