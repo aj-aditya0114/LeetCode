@@ -189,6 +189,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -273,12 +274,14 @@
 | [0002-add-two-numbers](https://github.com/aj-aditya0114/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aj-aditya0114/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aj-aditya0114/LeetCode/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -358,4 +361,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/aj-aditya0114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
