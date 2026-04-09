@@ -81,6 +81,7 @@
 | [0048-rotate-image](https://github.com/aj-aditya0114/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aj-aditya0114/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/aj-aditya0114/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aj-aditya0114/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aj-aditya0114/LeetCode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/aj-aditya0114/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aj-aditya0114/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aj-aditya0114/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aj-aditya0114/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aj-aditya0114/LeetCode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/aj-aditya0114/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -321,6 +324,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/aj-aditya0114/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aj-aditya0114/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/aj-aditya0114/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Heap (Priority Queue)
 |  |
@@ -367,5 +371,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/aj-aditya0114/LeetCode/tree/master/0085-maximal-rectangle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
