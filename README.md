@@ -106,6 +106,7 @@
 | [0658-find-k-closest-elements](https://github.com/aj-aditya0114/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/aj-aditya0114/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aj-aditya0114/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/aj-aditya0114/LeetCode/tree/master/0735-asteroid-collision) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/aj-aditya0114/LeetCode/tree/master/0912-sort-an-array) |
 | [0940-fruit-into-baskets](https://github.com/aj-aditya0114/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -146,6 +147,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/aj-aditya0114/LeetCode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -288,6 +290,7 @@
 | [0155-min-stack](https://github.com/aj-aditya0114/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/aj-aditya0114/LeetCode/tree/master/0735-asteroid-collision) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
