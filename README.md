@@ -285,6 +285,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aj-aditya0114/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/aj-aditya0114/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/aj-aditya0114/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -301,6 +302,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aj-aditya0114/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
