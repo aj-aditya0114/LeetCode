@@ -20,6 +20,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0322-coin-change](https://github.com/aj-aditya0114/LeetCode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aj-aditya0114/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1073-number-of-enclaves](https://github.com/aj-aditya0114/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aj-aditya0114/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
