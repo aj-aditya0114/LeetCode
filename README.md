@@ -292,6 +292,7 @@
 | [0392-is-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/aj-aditya0114/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aj-aditya0114/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -325,6 +326,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aj-aditya0114/LeetCode/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aj-aditya0114/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aj-aditya0114/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
