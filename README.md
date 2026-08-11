@@ -173,6 +173,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/aj-aditya0114/LeetCode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aj-aditya0114/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/aj-aditya0114/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [1250-longest-common-subsequence](https://github.com/aj-aditya0114/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aj-aditya0114/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aj-aditya0114/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/aj-aditya0114/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aj-aditya0114/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3636-check-balanced-string](https://github.com/aj-aditya0114/LeetCode/tree/master/3636-check-balanced-string) |
 ## Math
@@ -323,6 +325,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/aj-aditya0114/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aj-aditya0114/LeetCode/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/aj-aditya0114/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aj-aditya0114/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
